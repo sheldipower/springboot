@@ -1,4 +1,4 @@
-package pro.sky.java.course2.weblibrary;
+package ru.skypro.lessons.springboot.weblibrary;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
