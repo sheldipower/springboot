@@ -8,7 +8,6 @@ import ru.skypro.lessons.springboot.weblibrary.service.EmployeeService;
 
 import java.util.List;
 
-@RestController
 @RequestMapping("employees")
 public class EmployeeController {
     private final EmployeeService employeeService;
